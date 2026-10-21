@@ -1,0 +1,12 @@
+﻿district,json_hotspots,xls_hotspot_rows,name_count_death_multiset_match,reported_cluster_occurrences,reported_deaths
+강서구,30,30,True,77,0
+구로구,30,30,True,88,1
+노원구,30,30,True,89,2
+서초구,25,25,True,54,0
+성동구,30,30,True,78,0
+성북구,29,29,True,66,1
+양천구,30,30,True,86,2
+용산구,28,28,True,62,0
+은평구,30,30,True,74,0
+중구,16,16,True,36,0
+중랑구,30,30,True,101,2

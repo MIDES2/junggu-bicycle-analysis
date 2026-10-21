@@ -1,0 +1,20 @@
+{
+  "checks": "passed",
+  "official_hotspots": 308,
+  "unique_ids": 308,
+  "all_11_xls_districts_reconciled": true,
+  "independent_distance_formula": "spherical cosine; maximum tolerance 0.15m",
+  "monotonic_radii": "passed",
+  "pair_counts": "reconciled",
+  "duplicate_pairs": 0,
+  "source_coordinates": "TMACS wgsX/wgsY; no geocoding",
+  "not_verified": [
+    "source survey accuracy/datum documentation",
+    "facility CRS",
+    "road geometry",
+    "browser interactivity"
+  ],
+  "code_version": "2024-only full 11 district rebuild",
+  "png_visual_review": "passed",
+  "map_data_count_check": "308 hotspot circles and 468 endpoint circles"
+}

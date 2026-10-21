@@ -1,0 +1,16 @@
+{
+  "input_files": 23,
+  "road_csv_files": 11,
+  "hotspot_files": 11,
+  "hotspot_rows": 308,
+  "facility_rows": 21776,
+  "endpoint_analysis": "computed_partial_coverage_8_districts",
+  "hotspot_overlap": "computed_official_hotspot_centers_50_100_150m",
+  "facility_proximity": "pending_verified_facility_crs",
+  "road_records": 456,
+  "endpoint_slots": 912,
+  "valid_endpoint_coordinates": 570,
+  "strict_eligible_endpoints": 468,
+  "reference_year": 2024,
+  "accident_window": "2022-01-01 through 2024-12-31"
+}

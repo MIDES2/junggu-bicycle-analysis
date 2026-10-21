@@ -1,0 +1,7 @@
+﻿mode,radius_m,endpoint_denominator,hotspot_denominator,endpoints_near_hotspot,hotspots_near_endpoint,matching_pairs,boundary_review_pairs_within_0_3m
+reported,50,570,308,17,11,17,0
+reported,100,570,308,50,32,55,0
+reported,150,570,308,84,46,98,0
+strict,50,468,308,17,11,17,0
+strict,100,468,308,47,29,51,0
+strict,150,468,308,77,42,90,0
